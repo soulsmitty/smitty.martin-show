@@ -1,0 +1,15 @@
+{
+    "name": "smitty.martin-show",
+    "title": "Martin TV Show",
+    "description": "This theme has the flavors of the Martin show",
+    "homepage": "http://www.instagram.com/soulsmitty",
+    "version": "1.0.0",
+    "author": "@soulsmitty <dsmtty@gmail.com>",
+    "license": "DNS",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme","martin","show"]
+}
